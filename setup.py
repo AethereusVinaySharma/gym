@@ -88,3 +88,4 @@ setup(
     version=VERSION,
     zip_safe=False,
 )
+"""another comment """
