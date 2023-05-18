@@ -1,4 +1,4 @@
-"""Setups the project."""
+"""Setups the project feature1."""
 import itertools
 import re
 
@@ -88,3 +88,4 @@ setup(
     version=VERSION,
     zip_safe=False,
 )
+"""another comment """
